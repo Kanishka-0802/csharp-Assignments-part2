@@ -1,0 +1,8 @@
+C:\Users\kanishkac\Desktop\Assignments\LinqAssignments\LinqAssignments\obj\Debug\LinqAssignments.csproj.AssemblyReference.cache
+C:\Users\kanishkac\Desktop\Assignments\LinqAssignments\LinqAssignments\obj\Debug\LinqAssignments.csproj.CoreCompileInputs.cache
+C:\Users\kanishkac\Desktop\Assignments\LinqAssignments\LinqAssignments\bin\Debug\LinqAssignments.exe.config
+C:\Users\kanishkac\Desktop\Assignments\LinqAssignments\LinqAssignments\bin\Debug\LinqAssignments.exe
+C:\Users\kanishkac\Desktop\Assignments\LinqAssignments\LinqAssignments\bin\Debug\LinqAssignments.pdb
+C:\Users\kanishkac\Desktop\Assignments\LinqAssignments\LinqAssignments\obj\Debug\LinqAssignments.exe
+C:\Users\kanishkac\Desktop\Assignments\LinqAssignments\LinqAssignments\obj\Debug\LinqAssignments.pdb
+C:\Users\kanishkac\Desktop\Assignments\LinqAssignments\LinqAssignments\obj\Debug\LinqAssignments.exe.config
