@@ -1,0 +1,8 @@
+C:\Users\kanishkac\Desktop\Assignments\ArrayAssignments\ArrayAssignments\bin\Debug\ArrayAssignments.exe.config
+C:\Users\kanishkac\Desktop\Assignments\ArrayAssignments\ArrayAssignments\bin\Debug\ArrayAssignments.exe
+C:\Users\kanishkac\Desktop\Assignments\ArrayAssignments\ArrayAssignments\bin\Debug\ArrayAssignments.pdb
+C:\Users\kanishkac\Desktop\Assignments\ArrayAssignments\ArrayAssignments\obj\Debug\ArrayAssignments.csproj.AssemblyReference.cache
+C:\Users\kanishkac\Desktop\Assignments\ArrayAssignments\ArrayAssignments\obj\Debug\ArrayAssignments.csproj.CoreCompileInputs.cache
+C:\Users\kanishkac\Desktop\Assignments\ArrayAssignments\ArrayAssignments\obj\Debug\ArrayAssignments.exe
+C:\Users\kanishkac\Desktop\Assignments\ArrayAssignments\ArrayAssignments\obj\Debug\ArrayAssignments.pdb
+C:\Users\kanishkac\Desktop\Assignments\ArrayAssignments\ArrayAssignments\obj\Debug\ArrayAssignments.exe.config

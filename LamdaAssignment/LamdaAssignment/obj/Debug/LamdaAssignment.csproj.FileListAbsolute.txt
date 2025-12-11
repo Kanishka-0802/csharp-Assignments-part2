@@ -1,0 +1,8 @@
+C:\Users\kanishkac\Desktop\Assignments\LamdaAssignment\LamdaAssignment\bin\Debug\LamdaAssignment.exe.config
+C:\Users\kanishkac\Desktop\Assignments\LamdaAssignment\LamdaAssignment\bin\Debug\LamdaAssignment.exe
+C:\Users\kanishkac\Desktop\Assignments\LamdaAssignment\LamdaAssignment\bin\Debug\LamdaAssignment.pdb
+C:\Users\kanishkac\Desktop\Assignments\LamdaAssignment\LamdaAssignment\obj\Debug\LamdaAssignment.csproj.AssemblyReference.cache
+C:\Users\kanishkac\Desktop\Assignments\LamdaAssignment\LamdaAssignment\obj\Debug\LamdaAssignment.csproj.CoreCompileInputs.cache
+C:\Users\kanishkac\Desktop\Assignments\LamdaAssignment\LamdaAssignment\obj\Debug\LamdaAssignment.exe
+C:\Users\kanishkac\Desktop\Assignments\LamdaAssignment\LamdaAssignment\obj\Debug\LamdaAssignment.pdb
+C:\Users\kanishkac\Desktop\Assignments\LamdaAssignment\LamdaAssignment\obj\Debug\LamdaAssignment.exe.config
