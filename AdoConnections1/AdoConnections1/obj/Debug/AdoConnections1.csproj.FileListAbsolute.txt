@@ -1,0 +1,8 @@
+C:\Users\kanishkac\Desktop\Assignments\AdoConnections1\AdoConnections1\bin\Debug\AdoConnections1.exe.config
+C:\Users\kanishkac\Desktop\Assignments\AdoConnections1\AdoConnections1\bin\Debug\AdoConnections1.exe
+C:\Users\kanishkac\Desktop\Assignments\AdoConnections1\AdoConnections1\bin\Debug\AdoConnections1.pdb
+C:\Users\kanishkac\Desktop\Assignments\AdoConnections1\AdoConnections1\obj\Debug\AdoConnections1.csproj.AssemblyReference.cache
+C:\Users\kanishkac\Desktop\Assignments\AdoConnections1\AdoConnections1\obj\Debug\AdoConnections1.csproj.CoreCompileInputs.cache
+C:\Users\kanishkac\Desktop\Assignments\AdoConnections1\AdoConnections1\obj\Debug\AdoConnections1.exe
+C:\Users\kanishkac\Desktop\Assignments\AdoConnections1\AdoConnections1\obj\Debug\AdoConnections1.pdb
+C:\Users\kanishkac\Desktop\Assignments\AdoConnections1\AdoConnections1\obj\Debug\AdoConnections1.exe.config

@@ -1,0 +1,8 @@
+C:\Users\kanishkac\Desktop\Assignments\Disconnection\Disconnection\bin\Debug\Disconnection.exe.config
+C:\Users\kanishkac\Desktop\Assignments\Disconnection\Disconnection\bin\Debug\Disconnection.exe
+C:\Users\kanishkac\Desktop\Assignments\Disconnection\Disconnection\bin\Debug\Disconnection.pdb
+C:\Users\kanishkac\Desktop\Assignments\Disconnection\Disconnection\obj\Debug\Disconnection.csproj.AssemblyReference.cache
+C:\Users\kanishkac\Desktop\Assignments\Disconnection\Disconnection\obj\Debug\Disconnection.csproj.CoreCompileInputs.cache
+C:\Users\kanishkac\Desktop\Assignments\Disconnection\Disconnection\obj\Debug\Disconnection.exe
+C:\Users\kanishkac\Desktop\Assignments\Disconnection\Disconnection\obj\Debug\Disconnection.pdb
+C:\Users\kanishkac\Desktop\Assignments\Disconnection\Disconnection\obj\Debug\Disconnection.exe.config
